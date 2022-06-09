@@ -1,0 +1,18 @@
+.card img {
+    max-width: 100%;
+}
+
+.visualization {
+    width: 50%;
+    height: 50%;
+}
+
+.comparison {
+    width: 30%;
+    height: 30%;
+}
+
+img{ 
+    float: left;
+  }
+
